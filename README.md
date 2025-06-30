@@ -21,3 +21,6 @@ Real‑Time Synchronization: Leveraging Socket.IO, user edits are broadcast to a
 Rich Text Editing: The frontend uses Quill.js to offer formatting options (bold, italics, lists, headings, etc.), so users can create styled documents, not just plain text.*
 
 *OUTPUT*
+
+
+![Image](https://github.com/user-attachments/assets/fe6d1275-c5c8-49d8-a56c-db29f66825be)
